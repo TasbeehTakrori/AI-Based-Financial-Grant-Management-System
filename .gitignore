@@ -1,4 +1,5 @@
 # Ignore PyCharm project settings
+.idea/
 ../.idea/
 
 # Ignore Python cache and compiled files
@@ -9,6 +10,7 @@ __pycache__/
 
 # Ignore virtual environments
 venv/
+env/
 .env/
 .envrc
 *.venv
